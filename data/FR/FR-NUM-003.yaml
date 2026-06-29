@@ -1,0 +1,20 @@
+ID: FR-NUM-003
+Surface_String: "haut comme trois pommes"
+Literal_Gloss: "tall like three apples"
+Non_Compositional_Meaning: "very short / knee-high (usually referring to a small child)"
+
+Typological_Profile:
+  Language_Family: "Romance"
+  Morphology_Type: "Light inflection / Overt D obligatory"
+
+Syntactic_Mapping_in_Layered_DP:
+  D_Layer_Reference: "null (indefinite/generic bare noun mapping in comparative PP)"
+  Num_Layer_Quantity: "Bleached: 'trois' acts as a fixed scalar standard rather than a counting unit"
+  Div_Layer_Classifier: "null"
+  NP_Layer_Lexical_Root: "pomme (used as an ad-hoc unit of measurement)"
+
+Derivational_Crash_Diagnosis: "Within the comparative PP headed by 'comme', the DP 'trois pommes' lacks an overt $D^0$, a configuration highly restricted in Standard French. The $Num^0$ 'trois' is completely dequantified, transforming the entire nominal phrase into a frozen degree modifier for the adjective 'haut'. It functions as a scalar extreme rather than a compositional measurement."
+
+Minimal_Pair_Sanity_Check:
+  Form: "Il a mangé trois pommes." (Compositional: three physical apples)
+  Diagnostic_Test: "Number substitution strictly prohibited (*haut comme quatre pommes). The scalar geometry is completely frozen."
