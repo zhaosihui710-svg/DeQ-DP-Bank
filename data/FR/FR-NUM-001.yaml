@@ -1,0 +1,20 @@
+ID: FR-NUM-001
+Surface_String: "un pour tous, tous pour un"
+Literal_Gloss: "one for all, all for one"
+Non_Compositional_Meaning: "absolute mutual support and solidarity within a group"
+
+Typological_Profile:
+  Language_Family: "Romance"
+  Morphology_Type: "Light inflection / Overt D obligatory"
+
+Syntactic_Mapping_in_Layered_DP:
+  D_Layer_Reference: "Generic/Universal anchor (covert)"
+  Num_Layer_Quantity: "Bleached / Reciprocal relational marker"
+  Div_Layer_Classifier: "null"
+  NP_Layer_Lexical_Root: "null (elided/covert lexical root, e.g., 'member' or 'person')"
+
+Derivational_Crash_Diagnosis: "The numeral 'un' typically functions as a cardinality head in $Num^0$ or an indefinite article in $D^0$. In this phraseological unit, its quantitative feature is completely bleached. From a lexical semantics perspective, 'un' and 'tous' undergo a semantic shift to form a reciprocal bipartite structure, completely bypassing standard compositional quantification."
+
+Minimal_Pair_Sanity_Check:
+  Form: "J'ai acheté un gâteau pour tous les invités." (Compositional: one literal item for all)
+  Diagnostic_Test: "Strictly non-modifiable. Pluralizing the first element (*deux pour tous) or substituting the numeral destroys the lexical semantic integrity of the idiom."
