@@ -1,0 +1,20 @@
+ID: FR-NUM-002
+Surface_String: "faire les quatre cents coups"
+Literal_Gloss: "to do the four hundred blows"
+Non_Compositional_Meaning: "to live a wild, reckless life / to sow one's wild oats"
+
+Typological_Profile:
+  Language_Family: "Romance"
+  Morphology_Type: "Light inflection / Overt D obligatory"
+
+Syntactic_Mapping_in_Layered_DP:
+  D_Layer_Reference: "checked: overt definite article 'les' acting as generic event anchor"
+  Num_Layer_Quantity: "Bleached: 'quatre cents' loses exact cardinality, functioning as an intensifier for excess"
+  Div_Layer_Classifier: "null"
+  NP_Layer_Lexical_Root: "coup (eventive noun, shifted to mean 'reckless acts')"
+
+Derivational_Crash_Diagnosis: "The functional head $Num^0$ hosts the complex numeral 'quatre cents', but its precise uninterpretable cardinality feature [uCard] is bypassed. Instead of counting individual events, it undergoes a semantic shift to denote 'excessive quantity' or 'boundary-pushing'. The definite article 'les' in $D^0$ binds the whole idiomatic VP rather than referring to specific literal blows."
+
+Minimal_Pair_Sanity_Check:
+  Form: "Le forgeron a donné quatre cents coups de marteau." (Compositional: exactly 400 hits)
+  Diagnostic_Test: "Cannot be modified by exact numerical limiters (*faire les exactement quatre cents coups)."
