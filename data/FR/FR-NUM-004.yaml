@@ -1,0 +1,20 @@
+ID: FR-NUM-004
+Surface_String: "se mettre en quatre pour quelqu'un"
+Literal_Gloss: "to put oneself in four for someone"
+Non_Compositional_Meaning: "to go to great lengths / to bend over backwards for someone"
+
+Typological_Profile:
+  Language_Family: "Romance"
+  Morphology_Type: "Light inflection / Overt D obligatory"
+
+Syntactic_Mapping_in_Layered_DP:
+  D_Layer_Reference: "null"
+  Num_Layer_Quantity: "Bleached: 'quatre' denotes a state of extreme fragmentation/effort"
+  Div_Layer_Classifier: "null"
+  NP_Layer_Lexical_Root: "null (covert/elided root, presumably 'morceaux' / pieces)"
+
+Derivational_Crash_Diagnosis: "The preposition 'en' typically selects a DP. Here, the numeral 'quatre' sits in $Num^0$, but the lexical root in the NP layer is completely elided. The numeral itself absorbs the nominal properties, shifting in lexical semantics from a quantifier to an abstract intensive state ('into four pieces' -> 'maximum effort')."
+
+Minimal_Pair_Sanity_Check:
+  Form: "Il a coupé le gâteau en quatre (morceaux)." (Compositional fraction)
+  Diagnostic_Test: "Extractability is blocked. The phrase 'en quatre' acts as a single intransitive verbal modifier rather than a prepositional phrase containing a valid quantified DP."
